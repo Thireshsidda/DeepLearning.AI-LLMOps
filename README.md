@@ -50,3 +50,11 @@ In this course, you will dive into the LLMOps pipeline and learn how to adapt it
 🌟 **Erwin Huizenga** is a Machine Learning Technical Lead at Google, bringing extensive expertise to guide you through the LLMOps pipeline.
 
 🔗 To enroll in the course or for further information, visit [deeplearning.ai](https://www.deeplearning.ai/short-courses/).
+
+## Author
+
+👤 **Thiresh Sidda**
+
+* LinkedIn: [@ThireshSiddaLinkedIn](https://www.linkedin.com/in/thiresh-sidda)
+* GitHub: [@ThireshSiddaGitHub](https://github.com/Thireshsidda)
+* Portfolio:  [@ThireshSiddaPortfolio](https://thiresh-sidda-portfolio.netlify.app/)
